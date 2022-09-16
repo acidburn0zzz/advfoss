@@ -1,7 +1,7 @@
 Flask==0.10.1
 Flask-Mako==0.3
 Jinja2==2.7.2
-Mako==0.9.1
+Mako==1.2.2
 MarkupSafe==0.18
 PyYAML==3.10
 Werkzeug==0.9.4
